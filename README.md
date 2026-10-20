@@ -59,6 +59,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 
 ## 🧰 Tools & Skills
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Testiny](https://img.shields.io/badge/Testiny-3b82f6?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
