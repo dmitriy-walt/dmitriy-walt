@@ -14,7 +14,20 @@ I am an aspiring QA Engineer who recently completed Manual QA courses at Hillel 
 Click on any folder below to expand the details. (All detailed files will be located in the `cases/` directory).
 
 <details>
-<summary>📂 <b>Folder 1: Real Projects (Volunteer Testing)</b></summary>
+<summary>📂 <b>Folder 1: Educational Projects (Hillel IT School)</b></summary>
+<br>
+
+Assignments completed during the Manual QA course.
+
+*   **[Requirements Review (Pet-App)](./cases/requirements-review-app-kittens.md)** — Static testing: found 12 logical flaws and ambiguities in the specification.
+*   **[Test Design: Pairwise](./cases/test-design-pairwise.md)** — Optimized test coverage for a rental app search form (reduced 72 test cases to 12).
+*   **[#](./cases/keyauto.md)** — text will apear there in the future#
+*   **[#](./cases/dice.md)** — text will apear there in the future#
+
+</details>
+
+<details>
+<summary>📂 <b>Folder 2: Real Projects (Volunteer Testing)</b></summary>
 <br>
 
 Here are the bugs I found and my QA activities on live projects during volunteer testing.
@@ -22,19 +35,6 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 *   **[Bug: #](./cases/#)** — text will apear there in the future#
 *   **[Bug: #](./cases/#)** — text will apear there in the future#
 *   **[API #](./cases/#)** — text will apear there in the future#
-
-</details>
-
-<details>
-<summary>📂 <b>Folder 2: Educational Projects (Hillel IT School)</b></summary>
-<br>
-
-Assignments completed during the Manual QA course.
-
-*   **[Requirements Review (Pet-App)](./cases/requirements-review-app-kittens.md)** — Static testing: found 12 logical flaws and ambiguities in the specification.
-*   **[#](./cases/rent.md)** — text will apear there in the future#
-*   **[#](./cases/keyauto.md)** — text will apear there in the future#
-*   **[#](./cases/dice.md)** — text will apear there in the future#
 
 </details>
 
