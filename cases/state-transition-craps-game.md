@@ -20,7 +20,7 @@ The goal was to model the game logic and visualize how the application transitio
 ## 🗺 State Transition Diagram
 *(Here is the visual representation of the game logic)*
 
-![State Transition Diagram](./cases/images/diagram-draw.io.png)
+![State Transition Diagram](./images/diagram-draw.io.png)
 
 ## 🐞 Critical Defect Found in Requirements
 During the analysis, I identified a critical **inconsistency in the specification**. 
