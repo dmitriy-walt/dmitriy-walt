@@ -31,7 +31,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 
 Assignments completed during the Manual QA course.
 
-*   **[Help for Kittens](./cases/requirements-review-app-kittens.md)** — text will apear there in the future#
+*   **[Requirements Review (Pet-App)](./cases/requirements-review-app-kittens.md)** — Static testing: found 12 logical flaws and ambiguities in the specification.
 *   **[#](./cases/rent.md)** — text will apear there in the future#
 *   **[#](./cases/keyauto.md)** — text will apear there in the future#
 *   **[#](./cases/dice.md)** — text will apear there in the future#
