@@ -20,7 +20,7 @@ Click on any folder below to expand the details. (All detailed files will be loc
 Assignments completed during the Manual QA course.
 
 *   **[Requirements Review (Pet-App)](./cases/requirements-review-app-kittens.md)** — Static testing: found 12 logical flaws and ambiguities in the specification.
-*   **[Test Design: Pairwise](./cases/test-design-pairwise.md)** — Optimized test coverage for a rental app search form (reduced 72 test cases to 12).
+*   **[Test Design: Pairwise](./cases/test-design-pairwise-apartment rental.md)** — Optimized test coverage for a rental app search form (reduced 72 test cases to 12).
 *   **[#](./cases/keyauto.md)** — text will apear there in the future#
 *   **[#](./cases/dice.md)** — text will apear there in the future#
 
