@@ -3,7 +3,7 @@
 **Project:** "Craps Game" Web Application (Educational Project)
 **Task:** Create a State Transition Diagram based on the provided requirements and identify logical conflicts.
 **Tools Used:** Diagrams.net (draw.io) / Google Docs.
-
+**Date Completed:** 08.08.2026 17:31
 ---
 
 ## 📝 Project Context & Overview
@@ -35,3 +35,8 @@ While reviewing the mockups and requirements, I noted the following gaps:
 
 ## 💡 Conclusion
 Creating the State Transition Diagram helped visualize the game flow, but more importantly, it highlighted a fatal flaw in the requirements (the conflicting rules for number 12). Catching this during the static testing phase saved the development team from creating a buggy game logic.
+
+## 📸 Proof of Work
+*(Screenshot of the completed assignment and feedback)*
+
+![Assignment Score](./images/craps-game-state-transition.png)
