@@ -3,6 +3,7 @@
 **Project:** Apartment Rental Application (Educational Project)
 **Task:** Optimize test coverage using the Pairwise testing technique to reduce the number of test cases without losing coverage of critical parameter combinations.
 **Tools Used:** Google Sheets / Microsoft Excel.
+**Date Completed:** 06.08.2026 09:53 
 
 ---
 
@@ -39,3 +40,8 @@ As a result, the number of test cases was reduced from 72 to **12**, significant
 
 ## 💡 Conclusion
 Applying the Pairwise technique reduced the test suite from 72 to 12 cases. This approach significantly decreased testing time and resources while ensuring that all critical interactions between the search parameters (Rent Type, Floor, District, Pets) were fully validated.
+
+## 📸 Proof of Work
+*(Screenshot of the completed assignment and feedback)*
+
+![Assignment Score](./images/parwise-rental-appartment.png)
