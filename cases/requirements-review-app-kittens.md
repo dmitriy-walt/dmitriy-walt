@@ -6,8 +6,14 @@
 
 ---
 
-## 📝 Project Context
-The goal was to analyze the initial technical requirements for an application where users can create virtual cards, deposit money, and donate to animal shelters. Early detection of these issues prevents costly rework during the development and QA phases.
+## 📝 Project Context & Overview
+The goal was to analyze the initial technical requirements for an application designed to help kittens through donations. Early detection of these issues prevents costly rework during the development and QA phases.
+
+The main functionality includes:
+*   **Account Section:** Users can create and manipulate virtual bank cards.
+*   **Card Limits:** A user can create a maximum of 5 cards. The maximum deposit amount on one card is 100,000.
+*   **Donate Section:** Users can transfer money to the shelter using their added cards.
+*   **Data Validation:** First and Last names must be 2–20 English characters.
 
 ## 🔍 My Findings (Defect Log)
 
