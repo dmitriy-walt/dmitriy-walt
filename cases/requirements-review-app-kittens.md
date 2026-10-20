@@ -3,6 +3,7 @@
 **Project:** Pet-Adoption & Donation Web Application (Pet-project)
 **Task:** Conduct static testing (requirements review) to identify logical flaws, ambiguities, and inconsistencies before the development phase begins.
 **Tools Used:** Google Docs / Confluence (for documentation).
+**Date Completed:** 03.08.2026 12:56
 
 ---
 
@@ -40,3 +41,8 @@ Along with logical flaws, I identified critical text and UX issues:
 
 ## 💡 Conclusion
 Static testing at this stage helped prevent severe bugs (such as duplicate card creation or contradictory donation limits) from reaching production. Documenting these findings in a structured report allowed the business analysts to fix the specification before coding started.
+
+## 📸 Proof of Work
+*(Screenshot of the completed assignment and feedback)*
+
+![Assignment Score](./images/app-help-for-kittens.png)
