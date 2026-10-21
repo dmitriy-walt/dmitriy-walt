@@ -24,6 +24,7 @@ Assignments completed during the Manual QA course.
 *   **[State Transition Diagram (Craps Game)](./cases/state-transition-craps-game.md)** — Modeled game logic using State Transition testing. Found a critical inconsistency in the requirements (number 12).
 *   **[Test Case Design & Traceability(Pet-App)](./cases/test-design-traceability-pet-app.md)** — Designed 27 test cases in TestLaba and built a Requirements Traceability Matrix (RTM) to ensure 100% coverage.
 *   **[Checklist & Execution (Craps Game)](./cases/checklist-execution-craps.md)** — Created an 11-section checklist and executed it. Found critical UI/UX bugs on mobile devices.
+*   **[Jira Filters & Dashboards](./cases/jira-dashboards-filtering.md)** — Created custom JQL filters and built a visual dashboard with Pie Charts to track bug statuses.
 
 </details>
 
