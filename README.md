@@ -23,6 +23,7 @@ Assignments completed during the Manual QA course.
 *   **[Test Design: Pairwise (Rent apartment)](./cases/test-design-pairwise-apartment-rental.md)** — Optimized test coverage for a rental app search form (reduced 72 test cases to 12).
 *   **[State Transition Diagram (Craps Game)](./cases/state-transition-craps-game.md)** — Modeled game logic using State Transition testing. Found a critical inconsistency in the requirements (number 12).
 *   **[Test Case Design & Traceability(Pet-App)](./cases/test-design-traceability-pet-app.md)** — Designed 27 test cases in TestLaba and built a Requirements Traceability Matrix (RTM) to ensure 100% coverage.
+*   **[Checklist & Execution (Craps Game)](./cases/checklist-execution-craps.md)** — Created an 11-section checklist and executed it. Found critical UI/UX bugs on mobile devices.
 
 </details>
 
