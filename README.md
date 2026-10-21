@@ -4,7 +4,7 @@
 
 I am an aspiring QA Engineer who recently completed Manual QA courses at Hillel IT School. I actively practice testing web applications, finding Edge Cases, testing APIs, and working with databases. I am looking for my first Junior QA role where I can apply my skills and grow.
 
-*   📫 Contact me: [Telegram](https://t.me/dmitriywalt) | [LinkedIn - IN THE FUTURE]('#')
+*   📫 Contact me: [Telegram](https://t.me/dmitriywalt)
 *   🛠 My Stack: Jira, TestRail/Testiny, Postman, DevTools, SQL, Agile/Scrum.
 
 ---
