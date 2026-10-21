@@ -22,7 +22,7 @@ Assignments completed during the Manual QA course.
 *   **[Requirements Review (Pet-App)](./cases/requirements-review-app-kittens.md)** — Static testing: found 12 logical flaws and ambiguities in the specification.
 *   **[Test Design: Pairwise (Rent apartment)](./cases/test-design-pairwise-apartment-rental.md)** — Optimized test coverage for a rental app search form (reduced 72 test cases to 12).
 *   **[State Transition Diagram (Craps Game)](./cases/state-transition-craps-game.md)** — Modeled game logic using State Transition testing. Found a critical inconsistency in the requirements (number 12).
-*   **[#](./cases/dice.md)** — text will apear there in the future#
+*   **[Test Case Design & Traceability(Pet-App)](./cases/test-design-traceability-pet-app.md)** — Designed 27 test cases in TestLaba and built a Requirements Traceability Matrix (RTM) to ensure 100% coverage.
 
 </details>
 
