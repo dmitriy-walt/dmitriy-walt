@@ -25,6 +25,7 @@ Assignments completed during the Manual QA course.
 *   **[Test Case Design & Traceability(Pet-App)](./cases/test-design-traceability-pet-app.md)** — Designed 27 test cases in TestLaba and built a Requirements Traceability Matrix (RTM) to ensure 100% coverage.
 *   **[Checklist & Execution (Craps Game)](./cases/checklist-execution-craps.md)** — Created an 11-section checklist and executed it. Found critical UI/UX bugs on mobile devices.
 *   **[Jira Filters & Dashboards](./cases/jira-dashboards-filtering.md)** — Created custom JQL filters and built a visual dashboard with Pie Charts to track bug statuses.
+*   **[Checklist Execution & Jira Bug Reporting](./cases/bug-reporting-craps.md)** — Executed an 11-section checklist and logged 3 critical bugs in Jira (validation & game logic issues) with detailed Steps to Reproduce.
 
 </details>
 
