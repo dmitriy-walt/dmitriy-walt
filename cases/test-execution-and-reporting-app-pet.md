@@ -19,6 +19,7 @@ I executed a suite of **26 test cases** covering the "Account" (card creation) a
 *   **Blocked/Skipped:** 0
 
 *(Screenshot of the Test Run report showing 22 Passed and 4 Failed)*
+
 ![Test Run Report](./images/proof-testlaba-run.png)
 
 ### 2. Bug Reporting (Jira)
