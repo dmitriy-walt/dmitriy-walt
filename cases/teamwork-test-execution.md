@@ -3,7 +3,7 @@
 **Project:** Automotive Service Web Application (Educational Sandbox)
 **Task:** Simulate a real QA team workflow: distribute roles, write test cases for specific blocks, execute a Test Run, and create a team dashboard in Jira.
 **Tools Used:** TestLaba, Jira, Telegram (for communication).
-**Date Completed:** 31.08.2026 16:18
+**Date Started and Completed:** 28.08.2026 - 31.08.2026 16:18
 
 ---
 
