@@ -26,6 +26,7 @@ Assignments completed during the Manual QA course.
 *   **[Checklist & Execution (Craps Game)](./cases/checklist-execution-craps.md)** — Created an 11-section checklist and executed it. Found critical UI/UX bugs on mobile devices.
 *   **[Jira Filters & Dashboards](./cases/jira-dashboards-filtering.md)** — Created custom JQL filters and built a visual dashboard with Pie Charts to track bug statuses.
 *   **[Checklist Execution & Jira Bug Reporting](./cases/bug-reporting-craps.md)** — Executed an 11-section checklist and logged 3 critical bugs in Jira (validation & game logic issues) with detailed Steps to Reproduce.
+*   **[Teamwork & Test Execution (Auto App)](./cases/teamwork-test-execution.md)** — Managed test runs for Main Page, User Profiles, and Guest Profiles. Built a Jira Dashboard to visualize team progress.
 
 </details>
 
