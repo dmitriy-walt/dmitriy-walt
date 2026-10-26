@@ -30,6 +30,7 @@ During execution, I identified multiple defects and logged them in Jira (15 bug 
 *   **QM5547-174:** Edit Profile trims spaces in the name field (Data handling bug).
 
 *(Screenshot of the Jira Bug List)*
+
 ![Jira Bug List](./images/proof-qaauto-bugs.png)
 
 ## 📸 Proof of Work
