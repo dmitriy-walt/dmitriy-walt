@@ -27,6 +27,7 @@ Assignments completed during the Manual QA course.
 *   **[Jira Filters & Dashboards](./cases/jira-dashboards-filtering.md)** — Created custom JQL filters and built a visual dashboard with Pie Charts to track bug statuses.
 *   **[Checklist Execution & Jira Bug Reporting](./cases/bug-reporting-craps.md)** — Executed an 11-section checklist and logged 3 critical bugs in Jira (validation & game logic issues) with detailed Steps to Reproduce.
 *   **[Teamwork & Test Execution (Auto App)](./cases/teamwork-test-execution.md)** — Managed test runs for Main Page, User Profiles, and Guest Profiles. Built a Jira Dashboard to visualize team progress.
+*   **[Test Plan (qaAuto App)](./cases/test-plan-qa-auto.md)** — Created a comprehensive Test Plan covering scope, approach, entry/exit criteria, and risk management.
 
 </details>
 
