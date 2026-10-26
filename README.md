@@ -29,7 +29,7 @@ Assignments completed during the Manual QA course.
 *   **[Teamwork & Test Execution (Auto App)](./cases/teamwork-test-execution.md)** — Managed test runs for Main Page, User Profiles, and Guest Profiles. Built a Jira Dashboard to visualize team progress.
 *   **[Test Plan (qaAuto App)](./cases/test-plan-qa-auto.md)** — Created a comprehensive Test Plan covering scope, approach, entry/exit criteria, and risk management.
 *   **[Full Test Execution & Bug Reporting (qaAuto)](./cases/test-execution-qa-auto.md)** — Executed 49 test cases in TestLaba and logged 15 bugs in Jira (including boundary value validation issues).
-
+*   **[Git Basics & Version Control](./cases/git-basics.md)** — Practiced Git workflows: initialized repos, made commits, created branches, and pushed changes to GitHub.
 </details>
 
 <details>
