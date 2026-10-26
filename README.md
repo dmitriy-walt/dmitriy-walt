@@ -28,6 +28,7 @@ Assignments completed during the Manual QA course.
 *   **[Checklist Execution & Jira Bug Reporting](./cases/bug-reporting-craps.md)** — Executed an 11-section checklist and logged 3 critical bugs in Jira (validation & game logic issues) with detailed Steps to Reproduce.
 *   **[Teamwork & Test Execution (Auto App)](./cases/teamwork-test-execution.md)** — Managed test runs for Main Page, User Profiles, and Guest Profiles. Built a Jira Dashboard to visualize team progress.
 *   **[Test Plan (qaAuto App)](./cases/test-plan-qa-auto.md)** — Created a comprehensive Test Plan covering scope, approach, entry/exit criteria, and risk management.
+*   **[Full Test Execution & Bug Reporting (qaAuto)](./cases/test-execution-qa-auto.md)** — Executed 49 test cases in TestLaba and logged 15 bugs in Jira (including boundary value validation issues).
 
 </details>
 
