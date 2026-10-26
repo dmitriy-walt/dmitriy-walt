@@ -37,6 +37,7 @@ I performed the following Git operations from the command line:
 
 ## 📸 Proof of Work
 *(Screenshot of the completed assignment and feedback)*
+
 ![Test Plan Score](./images/proof-github-score.png)
 
 ## 💡 Conclusion
