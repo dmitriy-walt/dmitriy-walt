@@ -34,7 +34,7 @@ INSERT INTO car_brands (title) VALUES ('AUDI'), ('BMW'), ('MERCEDES');
 INSERT INTO users (firstName, lastName, email, password) VALUES 
 ('Ivan', 'Petrenko', 'ivan.petrenko@example.com', 'pass1234');
 
-##🐞 Examples of Implemented Constraints (from Schema)
+**🐞 Examples of Implemented Constraints (from Schema)**
 1. Data Integrity (UNIQUE)
 
 Column: email in users table.
@@ -53,14 +53,14 @@ Columns: mileage, initialMilleage in cars table.
 
 Purpose: Automatically assigns a starting value of 0 if no mileage is provided during car creation.
 
-##📸 Proof of Work
+**📸 Proof of Work**
 (Screenshots of the successfully executed SQL scripts and the resulting tables)
 
 ![Database Schema Creation](./images/proof-sql-creation.png)
 
 ![Data Population](./images/proof-sql-insert.png)
 
-##💡 Conclusion**
+**💡 Conclusion**
 This task allowed me to practice database design from scratch. I learned the importance of defining proper data types, applying constraints like NOT NULL and UNIQUE, and setting up FOREIGN KEY relationships to maintain referential integrity. I also reinforced my understanding of the correct order of operations when inserting related data, which is crucial for avoiding errors in a real production environment.
 
 *(Screenshot of the completed assignment and feedback)*
