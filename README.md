@@ -34,6 +34,7 @@ Assignments completed during the Manual QA course.
 *   **[CSS Styling & Responsive Design](./cases/css-styling.md)** — Enhanced a multi-page website with external CSS3, implemented `id`/`class` targeting for the Box Model, typography, and layout styling.
 *   **[API Testing & Automation with Postman](./cases/api-testing-postman.md)** — Developed an end-to-end Postman collection for user lifecycle management (CRUD), utilizing dynamic data generation, environment variables, and JavaScript assertions for JSON validation.
 *   **[Database Design & DDL (SQL)](./cases/sql-database-creation.md)** — Designed a relational database schema for a car management system, implemented Primary/Foreign Keys, applied constraints (`NOT NULL`, `UNIQUE`, `DEFAULT`), and populated tables with test data.
+*   **[SQL Data Manipulation (DML) & Data Retrieval](./cases/sql-dml-case-study.md)** — Practiced SQL data retrieval using `SELECT`, `WHERE`, `LIKE`, `JOIN`, aggregate functions (`COUNT`, `MAX`), and `GROUP BY`. Analyzed business data, calculated expenses, counted car models and owners, and validated query results.
 </details>
 
 
