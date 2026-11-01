@@ -59,15 +59,19 @@ I configured the Collection Runner to execute the entire folder sequentially. Be
 *   **Test:** Checks for `200 OK`, extracts `expenseId`, and saves it to the environment.
 
 ## 📸 Proof of Work
+
 *(Screenshots of the Postman Collection Runner and Test results)*
 
 **Collection Runner Results:**
+
 ![Postman Runner Results](./images/proof-api-runner.png)
 
 **Example of Tests (Assertions):**
+
 ![Postman Tests](./images/proof-api-tests.png)
 
 **Environment Variables:**
+
 ![Postman Environment](./images/proof-api-environment.png)
 
 ## 💡 Conclusion
