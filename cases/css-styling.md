@@ -47,6 +47,7 @@ As discussed with the instructor, some CSS rules in the `style.css` file are int
 ![Main Page Styled](./images/proof-css-index.png)
 
 **CSS File Structure:**
+
 ![CSS File](./images/proof-css-file1.png)
 
 **Git Branch Verification:**
