@@ -45,9 +45,6 @@ Instead of committing directly to the `main` branch (which is a bad practice), I
 **Git Branch Verification:**
 ![Git Branch HW21.1](./images/proof-git-branch.png)
 
-**File Structure:**
-![File Structure](https://github.com/dmitriy-walt/HW-21.1---HTML-page-Mukhtar-/tree/HW21.1)
-
 ## 💡 Conclusion
 This task allowed me to reinforce my understanding of HTML document structure and relative file paths. More importantly, it helped me practice using Git branches — a crucial skill for team collaboration and version control. I learned that even simple projects benefit from clear folder organization, which makes navigation and maintenance much easier.
 
