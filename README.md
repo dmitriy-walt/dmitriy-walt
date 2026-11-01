@@ -31,6 +31,7 @@ Assignments completed during the Manual QA course.
 *   **[Full Test Execution & Bug Reporting (qaAuto)](./cases/test-execution-qa-auto.md)** — Executed 49 test cases in TestLaba and logged 15 bugs in Jira (including boundary value validation issues).
 *   **[Git Basics & Version Control](./cases/git-basics.md)** — Practiced Git workflows: initialized repos, made commits, created branches, and pushed changes to GitHub.
 </details>
+*   **[HTML Structure & Web Basics](./cases/html-structure-and-Git-Branching.md)** — Created a multi-page "About Me" website using pure HTML5 (no CSS), strictly following the required folder hierarchy and Git branching workflow.
 
 <details>
 <summary>📂 <b>Folder 2: Real Projects (Volunteer Testing)</b></summary>
