@@ -8,7 +8,7 @@
 ---
 
 ## 📝 Project Context & Overview
-This task was designed to test foundational web technologies and version control discipline. The goal was to build a simple biographical webpage strictly using raw HTML tags (no CSS allowed) while adhering to a specific file hierarchy. Additionally, the task required proper Git workflow — creating a separate branch (`HW21.1`) and pushing changes to a remote repository.
+This task was designed to test foundational web technologies and version control discipline. The goal was to build a simple biographical webpage strictly using raw HTML tags (no CSS allowed) while adhering to a specific file hierarchy. Additionally, the task required proper Git workflow - creating a separate branch (`HW21.1`) and pushing changes to a remote repository.
 
 ## 🛠 My Approach & Deliverables
 
