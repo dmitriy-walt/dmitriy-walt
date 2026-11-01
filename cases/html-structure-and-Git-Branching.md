@@ -43,6 +43,7 @@ Instead of committing directly to the `main` branch (which is a bad practice), I
 ![Main Page Preview](./images/proof-html-index.png)
 
 **Git Branch Verification:**
+
 ![Git Branch HW21.1](./images/proof-git-branch.png)
 
 ## 💡 Conclusion
