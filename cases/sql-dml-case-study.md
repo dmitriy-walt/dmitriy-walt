@@ -144,7 +144,9 @@ results)*
 
 **Query Results Overview:**
 
-[SQL query results screenshot](./images/proof-sql-query-results.png)
+[SQL query results screenshot](./images/proof-sql-query-results-max-expense-total-cost.png)
+[SQL query results screenshot](./images/proof-sql-query-results-name-car-etc.png)
+
 
 ## 💡 Conclusion
 
