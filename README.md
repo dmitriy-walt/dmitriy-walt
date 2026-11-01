@@ -54,16 +54,24 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 <summary>📂 <b>Folder 3: SQL & Databases</b></summary>
 <br>
 
-*   **[SQL Practice](./cases/sql.md)** — Basic queries (SELECT, JOIN, WHERE) to verify backend data integrity.
+*   **[Database Design & DDL (SQL)](./cases/sql-database-creation.md)** — Designed a relational database schema for a car management system, implemented Primary/Foreign Keys, applied constraints (`NOT NULL`, `UNIQUE`, `DEFAULT`), and populated tables with test data.
+*   **[SQL Data Manipulation (DML) & Data Retrieval](./cases/sql-dml-case-study.md)** — Practiced SQL data retrieval using `SELECT`, `WHERE`, `LIKE`, `JOIN`, aggregate functions (`COUNT`, `MAX`), and `GROUP BY`. Analyzed business data, calculated expenses, counted car models and owners, and validated query results.
 
 </details>
 
 <details>
 <summary>📂 <b>Folder 4: Tools & Test Design</b></summary>
 <br>
-
-*   **[Testiny](./cases/testiny.md)** — Executing test runs and documenting bugs in comments (with video evidence).
-*   **[Postman](./cases/postman.md)** — REST API testing, analyzing response codes (200, 400, 404).
+  
+*   **[Test Design: Pairwise (Rent apartment)](./cases/test-design-pairwise-apartment-rental.md)** — Optimized test coverage for a rental app search form (reduced 72 test cases to 12).
+*   **[TestLaba](./cases/test-design-traceability-pet-app.md)** — Designed 27 test cases in TestLaba and built a Requirements Traceability Matrix (RTM) to ensure 100% coverage.
+*   **[Jira Filters & Dashboards](./cases/jira-dashboards-filtering.md)** — Created custom JQL filters and built a visual dashboard with Pie Charts to track bug statuses.
+*   **[API Testing & Automation with Postman](./cases/api-testing-postman.md)** — Developed an end-to-end Postman collection for user lifecycle management (CRUD), utilizing dynamic data generation, environment variables, and JavaScript assertions for JSON validation.
+*   **[Test Plan (qaAuto App)](./cases/test-plan-qa-auto.md)** — Created a comprehensive Test Plan covering scope, approach, entry/exit criteria, and risk management.
+*   **[Full Test Execution & Bug Reporting (qaAuto)](./cases/test-execution-qa-auto.md)** — Executed 49 test cases in TestLaba and logged 15 bugs in Jira (including boundary value validation issues).
+*   **[Git Basics & Version Control](./cases/git-basics.md)** — Practiced Git workflows: initialized repos, made commits, created branches, and pushed changes to GitHub.
+*   **[HTML Structure & Web Basics](./cases/html-structure-and-Git-Branching.md)** — Created a multi-page "About Me" website using pure HTML5 (no CSS), strictly following the required folder hierarchy and Git branching workflow.
+*   **[Testiny](#)** — Executing test runs and documenting bugs in comments (with video evidence).
 
 </details>
 
