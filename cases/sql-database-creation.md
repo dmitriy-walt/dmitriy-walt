@@ -56,8 +56,10 @@ Purpose: Automatically assigns a starting value of 0 if no mileage is provided d
 **📸 Proof of Work**
 (Screenshots of the successfully executed SQL scripts and the resulting tables)
 
+**Database Schema Creation:**
 ![Database Schema Creation](./images/proof-sql-creation.png)
 
+**Data Population:**
 ![Data Population](./images/proof-sql-insert.png)
 
 **💡 Conclusion**
