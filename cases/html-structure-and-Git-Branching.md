@@ -16,10 +16,10 @@ I approached this by first creating the required directory structure locally, wr
 
 ### 📂 1. Project Structure Compliance
 The task had strict requirements regarding folder hierarchy. I organized the project as follows:
-*   `index.html` — Main page (located in the root).
-*   `pages/contact.html` — Contact page.
-*   `pages/gallery.html` — Gallery page.
-*   `photo/` — Directory containing all image assets.
+*   `index.html` - Main page (located in the root).
+*   `pages/contact.html` - Contact page.
+*   `pages/gallery.html` - Gallery page.
+*   `photo/` - Directory containing all image assets.
 
 
 ### 💻 2. Technical Implementation (Pure HTML)
