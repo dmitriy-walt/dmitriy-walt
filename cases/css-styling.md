@@ -1,7 +1,9 @@
 # Case Study: CSS Styling & Responsive Design
 
 **Project:** "About Me" Personal Web Page (Educational Project)
+
 **Task:** Enhance the existing HTML website by adding external CSS styles, using `id` and `class` attributes for targeting, and managing the project via a separate Git branch.
+
 **Tools Used:** CSS3 / HTML5 / Git / GitHub.
 
 **Date Completed:** 02.10.2026
