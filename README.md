@@ -45,7 +45,7 @@ Assignments completed during the Manual QA course.
 Here are the bugs I found and my QA activities on live projects during volunteer testing.
 
 *   **[Map Markers Testing (Commercial)](./cases/RealProject/map-markers-testing.md)** — Exploratory testing: found a boundary defect allowing marker creation outside the supported service area (anonymized due to NDA).
-*   **[Bug: #](./cases/#)** — text will apear there in the future#
+*   **[Map Markers Filtering (Commercial)](./cases/RealProject/map-filters-testing.md)** — Functional testing: discovered a data isolation bug where utility filters (power/gas) displayed unrelated markers.
 *   **[API #](./cases/#)** — text will apear there in the future#
 
 </details>
