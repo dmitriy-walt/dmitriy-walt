@@ -44,7 +44,7 @@ Assignments completed during the Manual QA course.
 
 Here are the bugs I found and my QA activities on live projects during volunteer testing.
 
-*   **[Bug: #](./cases/#)** — text will apear there in the future#
+*   **[Map Markers Testing (Commercial)](./cases/RealProject/map-markers-testing.md)** — Exploratory testing: found a boundary defect allowing marker creation outside the supported service area (anonymized due to NDA).
 *   **[Bug: #](./cases/#)** — text will apear there in the future#
 *   **[API #](./cases/#)** — text will apear there in the future#
 
