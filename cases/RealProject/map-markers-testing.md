@@ -34,7 +34,7 @@ overloading a single point, and completeness of marker display.
 | **Actual** | Marker is successfully created far outside the supported service area. |
 | **Result** | ❌ **Failed** — defect found (see BUG-001) |
 | **Comments** | Business logic is broken: the service works only within the designated city, but allows placing markers anywhere. |
-| **Attachments** | [screenshot with blurred data](cases/RealProject/images/bug-001.png) |
+| **Attachments** | <img src="./images/bug-001.png" width="300" alt="Marker outside zone"> |
 
 ### TC-02: Spamming markers at a single point
 | Field | Value |
