@@ -43,8 +43,7 @@ overloading a single point, and completeness of marker display.
 | **Expected** | Duplicates are blocked or grouped. |
 | **Actual** | Behavior matches expectations. |
 | **Result** | ✅ **Passed** |
-| **Comments** | — |
-| **Attachments** | — |
+
 
 ### TC-03: Displaying all available markers
 | Field | Value |
@@ -53,8 +52,6 @@ overloading a single point, and completeness of marker display.
 | **Expected** | All markers are visible, nothing disappears. |
 | **Actual** | All markers are displayed correctly. |
 | **Result** | ✅ **Passed** |
-| **Comments** | — |
-| **Attachments** | — |
 
 ## Summary of Results
 | Test Case | Result |
