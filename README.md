@@ -48,6 +48,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 *   **[Map Markers Filtering (Commercial)](./cases/RealProject/map-filters-testing.md)** — Functional testing: discovered a data isolation bug where utility filters (power/water) displayed unrelated markers.
 *   **[Geolocation Retest & UI Drift (Commercial)](./cases/RealProject/geolocation-accuracy-bug.md)** — Cross-platform testing (PC/Ethernet, Mobile/Wi-Fi): found a missing geolocation marker. During the retest of the fix, identified a new UI instability bug (map jitter).
 *   **[Marker Cooldown Timer Bug (Commercial)](./cases/RealProject/marker-timer-reset-bug.md)** — Boundary value analysis & Business logic: uncovered a critical flaw where the rate limit timer reset incorrectly and deleted existing user markers (data loss).
+*   **[Smoke Test: Marker Creation Blocker (Commercial)](./cases/RealProject/smoke-test-marker-creation-blocked.md)** — Smoke testing: identified a critical blocker that prevented core marker creation, halting further regression testing of the build.
 
 </details>
 
