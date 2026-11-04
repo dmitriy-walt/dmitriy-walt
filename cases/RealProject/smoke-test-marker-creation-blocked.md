@@ -25,7 +25,7 @@ within the supported "green zone" (designated service area).
 | **Steps** | 1. Open the map and ensure user limits are available. 2. Move the map center or click anywhere inside the designated green zone. 3. Attempt to save the new marker. |
 | **Expected** | The marker is successfully placed, and a confirmation modal appears. |
 | **Actual** | Markers cannot be placed inside the green zone. The creation action fails immediately, making it impossible to use the core feature of the app. |
-| **Result** | ❌ **Failed (Blocker)** — defect found (see BUG-002) |
+| **Result** | ❌ **Failed (Blocker)** — defect found (see BUG-005) |
 | **Comments** | This is a **showstopper**. Since the primary function (marker creation) is completely broken, further testing of the map module is blocked. The build is not ready for regression testing. |
 | **Attachments** | <img src="./videos/smoke-marker-blocked.gif" width="670" alt="Bug-005"> |
 
