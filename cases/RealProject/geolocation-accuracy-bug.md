@@ -28,7 +28,8 @@ and stability.
 | **Actual** | **First run:** No marker appeared at all, the map just centered on the general area. **After retest (fix applied):** The marker appeared, but it was unstable — the map kept shifting slightly left/right and up/down around the point. |
 | **Result** | ❌ **Failed** |
 | **Comments** | 1. Initially, users couldn't pinpoint their location (no marker).
-| **Attachments** | <image src="./video/geolocation-bug-003.gif" width="500" controls></video> |
+| **Attachments** | <img src="./video/geolocation-bug-003.gif" width="500" alt="Bug-003">
+
 
 ## Summary of Results
 | Test Case | Result |
@@ -81,7 +82,7 @@ and stability.
 2. **Suggested UX improvement:** Implement a slight "snap" or debounce logic to stabilize the coordinates, preventing the map from micro-adjusting when the user is standing still.
 
 **Attachments:** 
-<images src="./video/retested-bug-004.gif" width="500" controls></video>
+<img src="./video/retested-bug-004.gif" width="500" alt="Retested-bug-003">
 
 ## Conclusion
 This case was a fantastic lesson in **retesting and regression testing**. 
