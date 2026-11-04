@@ -68,6 +68,3 @@ This case was a practical lesson in **Smoke Testing** and understanding **severi
 While exploring the new build, I immediately encountered a blocking issue that prevented the creation of any markers, even within the valid zone. Recognizing this as a **Blocker**, I immediately halted further testing of the map features. 
 
 Reporting a smoke test failure early saves the entire team time — it prevents QA from wasting hours on a broken build and alerts the developers immediately so they can fix the core issue before the next iteration.
-
-## Proof
-[Video with blurred data](./videos/smoke-marker-blocked.mp4)
