@@ -38,7 +38,7 @@ within the supported "green zone" (designated service area).
 
 ## Defect Log
 
-### BUG-002: Unable to create markers within the allowed green zone (Blocker)
+### BUG-005: Unable to create markers within the allowed green zone (Blocker)
 | Field | Value |
 |-------|-------|
 | **Severity** | Critical / Blocker |
