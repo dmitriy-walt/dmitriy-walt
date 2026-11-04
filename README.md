@@ -46,7 +46,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 
 *   **[Map Markers Testing (Commercial)](./cases/RealProject/map-markers-testing.md)** — Exploratory testing: found a boundary defect allowing marker creation outside the supported service area (anonymized due to NDA).
 *   **[Map Markers Filtering (Commercial)](./cases/RealProject/map-filters-testing.md)** — Functional testing: discovered a data isolation bug where utility filters (power/water) displayed unrelated markers.
-*   **[API #](./cases/#)** — text will apear there in the future#
+*   **[Geolocation Retest & UI Drift (Commercial)](./cases/RealProject/geolocation-accuracy-bug.md)** — Cross-platform testing (PC/Ethernet, Mobile/Wi-Fi): found a missing geolocation marker. During the retest of the fix, identified a new UI instability bug (map jitter).
 
 </details>
 
