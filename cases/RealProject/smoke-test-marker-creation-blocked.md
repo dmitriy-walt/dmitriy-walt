@@ -27,7 +27,7 @@ within the supported "green zone" (designated service area).
 | **Actual** | Markers cannot be placed inside the green zone. The creation action fails immediately, making it impossible to use the core feature of the app. |
 | **Result** | ❌ **Failed (Blocker)** — defect found (see BUG-002) |
 | **Comments** | This is a **showstopper**. Since the primary function (marker creation) is completely broken, further testing of the map module is blocked. The build is not ready for regression testing. |
-| **Attachments** | <img src="./videos/smoke-marker-blocked.gif" width="900" alt="Bug-005"> |
+| **Attachments** | <img src="./videos/smoke-marker-blocked.gif" width="670" alt="Bug-005"> |
 
 ## Summary of Results
 | Test Case | Result |
@@ -59,7 +59,7 @@ within the supported "green zone" (designated service area).
 2. **Smoke Test failed:** Regression testing on this build has been suspended until this issue is resolved.
 
 **Attachments:** 
-| **Attachments** | <img src="./videos/smoke-marker-blocked.gif" width="900" alt="Bug-005"> |
+| **Attachments** | <img src="./videos/smoke-marker-blocked.gif" width="670" alt="Bug-005"> |
 
 ## Conclusion
 This case was a practical lesson in **Smoke Testing** and understanding **severity vs. priority**. 
