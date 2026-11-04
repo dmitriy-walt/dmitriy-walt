@@ -59,7 +59,8 @@ within the supported "green zone" (designated service area).
 2. **Smoke Test failed:** Regression testing on this build has been suspended until this issue is resolved.
 
 **Attachments:** 
-| **Attachments** | <img src="./videos/smoke-marker-blocked.gif" width="670" alt="Bug-005"> |
+
+<img src="./videos/smoke-marker-blocked.gif" width="670" alt="Bug-005"> 
 
 ## Conclusion
 This case was a practical lesson in **Smoke Testing** and understanding **severity vs. priority**. 
