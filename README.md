@@ -50,7 +50,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 *   **[Marker Cooldown Timer Bug (Commercial)](./cases/RealProject/marker-timer-reset-bug.md)** — Boundary value analysis & Business logic: uncovered a critical flaw where the rate limit timer reset incorrectly and deleted existing user markers (data loss).
 *   **[Smoke Test: Marker Creation Blocker (Commercial)](./cases/RealProject/smoke-test-marker-creation-blocked.md)** — Smoke testing: identified a critical blocker that prevented core marker creation, halting further regression testing of the build.
 *   **[Point Farming Vulnerability (Commercial)](./cases/RealProject/point-farming-abuse-case.md)** — Abuse case testing: discovered a critical business logic flaw allowing users to infinitely farm points by rapidly creating and deleting markers. Reported and fixed.
-
+*   **[Geospatial Boundary Violation (Commercial)](./cases/RealProject/geospatial-boundary-bug.md)** — Geospatial testing: identified a logic flaw where map markers could be placed outside the designated service area due to incorrect coordinate validation.
 </details>
 
 <details>
