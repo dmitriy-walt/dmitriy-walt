@@ -71,6 +71,7 @@ the user's point balance, specifically checking for potential system abuse (farm
 2. **Suggested fix:** Implement a transaction rollback for points upon marker deletion, and add a cooldown for rapid add/delete actions.
 
 **Attachments:** 
+
 <img src="./videos/points-bug.gif" width="500" alt="Points not deducted">
 <img src="./videos/points-farming.gif" width="500" alt="Farming abuse">
 
