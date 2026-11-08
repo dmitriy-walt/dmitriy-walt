@@ -27,7 +27,7 @@ outside this zone, specifically testing locations on the administrative borders
 | **Actual** | The map correctly identifies the settlement as part of the region (displayed normally), but allows the user to place a marker **outside the visible green zone boundary**. |
 | **Result** | ❌ **Failed** — defect found (see BUG-001) |
 | **Comments** | The user can place markers in areas that are not part of the intended service area (partially overlapping the green zone but extending beyond it). |
-| **Attachments** | <img src="./videos/geospatial-boundary-bug.gif" width="500" alt="Points not deducted"> |
+| **Attachments** | <img src="./videos/geospatial-boundary-bug.gif" width="900" alt="Points not deducted"> |
 
 ## Summary of Results
 | Test Case | Result |
@@ -59,7 +59,7 @@ outside this zone, specifically testing locations on the administrative borders
 2. **Suggested fix:** The validation logic should check against the actual coordinates (GeoJSON polygon) of the green zone, rather than just checking if the coordinates fall within the broader region.
 
 **Attachments:** 
-<img src="./videos/<img src="./videos/pgeospatial-boundary-bug.gif" width="500" alt="geospatial-boundary-bug">
+<img src="./videos/geospatial-boundary-bug.gif" width="900" alt="geospatial-boundary-bug">
 
 ## Conclusion
 This case was a fascinating exercise in **Geospatial Testing** and **Business Logic verification**.
