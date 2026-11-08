@@ -59,6 +59,7 @@ outside this zone, specifically testing locations on the administrative borders
 2. **Suggested fix:** The validation logic should check against the actual coordinates (GeoJSON polygon) of the green zone, rather than just checking if the coordinates fall within the broader region.
 
 **Attachments:** 
+
 <img src="./videos/geospatial-boundary-bug.gif" width="800" alt="geospatial-boundary-bug">
 
 ## Conclusion
