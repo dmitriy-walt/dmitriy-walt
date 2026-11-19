@@ -51,6 +51,8 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 *   **[Smoke Test: Marker Creation Blocker (Commercial)](./cases/RealProject/smoke-test-marker-creation-blocked.md)** — Smoke testing: identified a critical blocker that prevented core marker creation, halting further regression testing of the build.
 *   **[Point Farming Vulnerability (Commercial)](./cases/RealProject/point-farming-abuse-case.md)** — Abuse case testing: discovered a critical business logic flaw allowing users to infinitely farm points by rapidly creating and deleting markers. Reported and fixed.
 *   **[Geospatial Boundary Violation (Commercial)](./cases/RealProject/geospatial-boundary-bug.md)** — Geospatial testing: identified a logic flaw where map markers could be placed outside the designated service area due to incorrect coordinate validation.
+*   **[API Testing & Load Check (ReqRes)](./cases/Practice/api-reqres-testing.md)** — REST API & performance testing: verified `GET` responses and ran a load/stress check to evaluate stability and response behavior.
+*   **[SQL Data Verification — Users Table (`users`)](./cases/Practice/sql-users-table-verification.md)** — SQL querying & data validation: verified record retrieval, negative/boundary checks (`ID = 7`), exact and wildcard filtering (`LIKE`), ordering (`ORDER BY`), and role aggregation (`GROUP BY`, `COUNT`).
 </details>
 
 <details>
@@ -59,6 +61,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 
 *   **[Database Design & DDL (SQL)](./cases/sql-database-creation.md)** — Designed a relational database schema for a car management system, implemented Primary/Foreign Keys, applied constraints (`NOT NULL`, `UNIQUE`, `DEFAULT`), and populated tables with test data.
 *   **[SQL Data Manipulation (DML) & Data Retrieval](./cases/sql-dml-case-study.md)** — Practiced SQL data retrieval using `SELECT`, `WHERE`, `LIKE`, `JOIN`, aggregate functions (`COUNT`, `MAX`), and `GROUP BY`. Analyzed business data, calculated expenses, counted car models and owners, and validated query results.
+*   **[SQL Data Verification — Users Table (`users`)](./cases/Practice/sql-users-table-verification.md)** — SQL querying & data validation: verified record retrieval, negative/boundary checks (`ID = 7`), exact and wildcard filtering (`LIKE`), ordering (`ORDER BY`), and role aggregation (`GROUP BY`, `COUNT`).
 
 </details>
 
