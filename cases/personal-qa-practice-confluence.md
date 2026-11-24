@@ -51,12 +51,15 @@ To ensure high-quality documentation, I didn't just ask the AI to "write a test 
 *(Screenshots of my Confluence workspace)*
 
 **1. Test Case (TC-API-01):**
+
 ![Confluence Test Case](./images/proof-confluence-testcase.gif)
 
 **2. Bug Report (BUG-001):**
+
 ![Confluence Bug Report](./images/proof-confluence-bugreport.gif)
 
 **AI Prompt Engineering (RTF) Proof:**
+
 ![AI Prompt RTF](./images/proof-ai-prompt.png)
 
 ## 💡 Conclusion
