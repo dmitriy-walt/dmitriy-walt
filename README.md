@@ -4,7 +4,7 @@
 
 I am an aspiring QA Engineer who recently completed Manual QA courses at Hillel IT School. I actively practice testing web applications, finding Edge Cases, testing APIs, and working with databases. I am looking for my first Junior QA role where I can apply my skills and grow.
 
-*   📫 Contact me: [Telegram](https://t.me/dmitriywalt) , [LinkedIn](*)
+*   📫 Contact me: [Telegram](https://t.me/dmitriywalt) , [LinkedIn](https://www.linkedin.com/in/dmitriywalt/)
 *   🛠 My Stack: Jira, TestRail/Testiny, Postman, DevTools, SQL, Agile/Scrum.
 
 ---
@@ -77,6 +77,7 @@ Here are the bugs I found and my QA activities on live projects during volunteer
 *   **[Full Test Execution & Bug Reporting (qaAuto)](./cases/test-execution-qa-auto.md)** — Executed 49 test cases in TestLaba and logged 15 bugs in Jira (including boundary value validation issues).
 *   **[Git Basics & Version Control](./cases/git-basics.md)** — Practiced Git workflows: initialized repos, made commits, created branches, and pushed changes to GitHub.
 *   **[HTML Structure & Web Basics](./cases/html-structure-and-Git-Branching.md)** — Created a multi-page "About Me" website using pure HTML5 (no CSS), strictly following the required folder hierarchy and Git branching workflow.
+*   **[Personal QA Practice (Confluence & AI)](./cases/personal-qa-practice-confluence.md)** — Simulated a real QA workflow in Confluence: wrote a test case, logged a bug report, and linked them for traceability. Used the RTF (Role, Task, Format) prompt formula with AI to generate professional templates.
 *   **[Testiny](#)** — Executing test runs and documenting bugs in comments (with video evidence).
 
 </details>
